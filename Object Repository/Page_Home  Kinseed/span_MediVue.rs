@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_MediVue</name>
+   <tag></tag>
+   <elementGuidId>9d37da19-7dcd-4f0e-ab2a-61ed708b3187</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-1360']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-1360 > a.awb-menu__sub-a > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>97f4b837-5f75-4cf8-9568-085c2866a561</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MediVue</value>
+      <webElementGuid>8b3ac287-1ae9-4ef3-a661-b2ce8cdbfd38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-1360&quot;)/a[@class=&quot;awb-menu__sub-a&quot;]/span[1]</value>
+      <webElementGuid>57b578a3-5ca4-4c85-91dc-a3127dbcd558</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-1360']/a/span</value>
+      <webElementGuid>6e65c83f-b8ea-47b1-ad2c-0e8f9b3be305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MediLog'])[1]/following::span[1]</value>
+      <webElementGuid>c0dd7a10-f7df-4fb9-af47-b41439109937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SwiftCare'])[1]/following::span[4]</value>
+      <webElementGuid>45b9e418-20e5-44e5-9f0c-6fba6408c355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MediConnect'])[1]/preceding::span[2]</value>
+      <webElementGuid>22f35b82-c8c6-4b41-9b06-c2ff0de6096b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MediTrack'])[1]/preceding::span[4]</value>
+      <webElementGuid>72505733-da6c-4047-bc55-eea6ba50d25a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MediVue']/parent::*</value>
+      <webElementGuid>0467ca3d-1e93-42bc-aed2-a242438f06bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[2]/a/span</value>
+      <webElementGuid>72bd6b9e-93be-472d-9d16-cc7ee9238d00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'MediVue' or . = 'MediVue')]</value>
+      <webElementGuid>1b362225-1d4f-4e5e-a10b-37c8a10368ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

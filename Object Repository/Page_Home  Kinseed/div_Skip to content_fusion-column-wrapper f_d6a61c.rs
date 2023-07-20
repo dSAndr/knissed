@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Skip to content_fusion-column-wrapper f_d6a61c</name>
+   <tag></tag>
+   <elementGuidId>d3cb3ca7-a4fb-4f33-a906-9280123c2a36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.fusion-column-wrapper.fusion-column-has-shadow.fusion-flex-justify-content-center.fusion-content-layout-column</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>
+			</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bcfee3e1-de5e-45e2-875f-cc30170f907a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-center fusion-content-layout-column</value>
+      <webElementGuid>adf11ee4-635c-476d-8181-55982542db51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;fusion-tb-header&quot;]/div[@class=&quot;fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-custom-z-index&quot;]/div[@class=&quot;fusion-builder-row fusion-row fusion-flex-align-items-stretch fusion-flex-content-wrap&quot;]/div[@class=&quot;fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_4 1_4 fusion-flex-column&quot;]/div[@class=&quot;fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-center fusion-content-layout-column&quot;]</value>
+      <webElementGuid>85706cf4-eb8d-4060-be7d-7b9440c6a6d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[2]/div/div/div/div</value>
+      <webElementGuid>2120b85b-074e-4c54-8155-79df033033a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>61afac06-ba17-4ccf-988c-9457b3cd0f58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

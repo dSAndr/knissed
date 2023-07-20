@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Discover Kinseeds 10 year celebrations</name>
+   <tag></tag>
+   <elementGuidId>427be74d-7909-4208-9001-fb644f08d4bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fusion-button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='post-1396']/div/div/div/div/div/div[4]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>383d4c5e-fd9b-4378-8461-5383801269f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fusion-button-text</value>
+      <webElementGuid>58550dd8-2a2a-4a80-b9fb-da95ff0897f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Discover Kinseed’s 10 year celebrations</value>
+      <webElementGuid>f9f7a93c-b4ea-440d-94ed-fdee18533dac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-1396&quot;)/div[@class=&quot;post-content&quot;]/div[@class=&quot;fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-flex-container has-pattern-background has-mask-background nonhundred-percent-fullwidth non-hundred-percent-height-scrolling&quot;]/div[@class=&quot;fusion-builder-row fusion-row fusion-flex-align-items-flex-start fusion-flex-content-wrap&quot;]/div[@class=&quot;fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_2 1_2 fusion-flex-column&quot;]/div[@class=&quot;fusion-column-wrapper fusion-column-has-shadow fusion-flex-justify-content-flex-start fusion-content-layout-column&quot;]/div[4]/a[@class=&quot;fusion-button button-flat fusion-button-default-size button-default fusion-button-default button-1 fusion-button-default-span fusion-button-default-type&quot;]/span[@class=&quot;fusion-button-text&quot;]</value>
+      <webElementGuid>1585292b-e35f-4d49-ae84-406e71976da1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='post-1396']/div/div/div/div/div/div[4]/a/span</value>
+      <webElementGuid>5d48d4c9-0aed-43df-afb1-cdefbb836f84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Celebrating 10 years of Kinseed'])[1]/following::span[1]</value>
+      <webElementGuid>ad3c6a06-366f-42d7-95c0-f9d30055571e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Josh Knight'])[1]/following::span[2]</value>
+      <webElementGuid>3a896aa9-f961-43fa-8e7e-33d1ca294dcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Building future-proof, fit for purpose and sustainable digital solutions'])[1]/preceding::span[2]</value>
+      <webElementGuid>7e02877c-a140-46cc-9e77-ce0500c8419c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more about SwiftCare'])[1]/preceding::span[2]</value>
+      <webElementGuid>b06e8434-e19a-4d33-b427-6e5e0e2e342c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Discover Kinseed’s 10 year celebrations']/parent::*</value>
+      <webElementGuid>0d4317dc-6876-42a1-981a-3b0c05f724f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/span</value>
+      <webElementGuid>422460ca-93e6-424f-b12c-d388e89e7160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Discover Kinseed’s 10 year celebrations' or . = 'Discover Kinseed’s 10 year celebrations')]</value>
+      <webElementGuid>10345960-a3fa-4706-9784-58c6d50ffe81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
