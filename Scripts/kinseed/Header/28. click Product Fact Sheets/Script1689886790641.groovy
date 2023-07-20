@@ -37,10 +37,10 @@ WebUI.mouseOver(findTestObject('Page_Home  Kinseed/span_Insights'))
 
 WebUI.click(findTestObject('Page_Home  Kinseed/span_Product Fact Sheets'))
 
-//kinseed.com/product-factsheets/ = WebUI.getUrl()
+//kinseed.com/product-fact-sheets/ = WebUI.getUrl()
 https: urlx = WebUI.getUrl()
 
-WebUI.verifyMatch(urlx, 'https://kinseed.com/product-factsheets/', true)
+WebUI.verifyMatch(urlx, 'https://kinseed.com/product-fact-sheets/', true)
 
 classy = WebUI.getAttribute(findTestObject('Page_Home  Kinseed/li_Insights'), 'class')
 
